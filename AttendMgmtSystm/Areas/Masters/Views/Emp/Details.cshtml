@@ -1,0 +1,82 @@
+﻿@model AttendMgmtSystm.Models.EmpMst
+
+@{ 
+    ViewData["Title"] = "Details";
+}
+
+<div class="container p-3 my-3 border">
+    <h1>Employee Details</h1>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.EmpId)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.EmpId)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.EmpName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.EmpName)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.PhNo)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.PhNo)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Passw)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Passw)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.CreatedBy)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.CreatedOn)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.UpdatedBy)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.UpdatedBy)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.UpdatedOn)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.UpdatedOn)
+        </dd>
+    </dl>
+    <div>
+        <a class="btn btn-primary" asp-action="AddorEdit" asp-route-employeeId="@Model.EmpId">Edit</a>
+        <a class="btn btn-danger" asp-action="Index">Back</a>
+    </div>
+</div>

@@ -17,9 +17,9 @@ namespace AttendMgmtSystm.Models
         {
         }
 
-        public virtual DbSet<AttMst> AttMsts { get; internal set; }
-        public virtual DbSet<EmpMst> EmpMsts { get; internal set; }
-        public virtual DbSet<ShiftMst> ShiftMsts { get; internal set; }
+        public virtual DbSet<AttMst> AttMsts { get; set; }
+        public virtual DbSet<EmpMst> EmpMsts { get; set; }
+        public virtual DbSet<ShiftMst> ShiftMsts { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -36,26 +36,25 @@ namespace AttendMgmtSystm.Models
 
             modelBuilder.Entity<AttMst>(entity =>
             {
-                entity.HasKey(e => e.EmpId)
-                    .HasName("PK__att_mst__1299A861306167BB");
-
                 entity.ToTable("att_mst");
 
-                entity.Property(e => e.EmpId).HasColumnName("emp_id");
+                entity.Property(e => e.Id).HasColumnName("id");
 
-                entity.Property(e => e.CheckIn)
-                    .HasColumnType("datetime")
-                    .HasColumnName("check_in");
+                entity.Property(e => e.CheckInDate).HasColumnType("date");
 
-                entity.Property(e => e.CheckOut)
-                    .HasColumnType("datetime")
-                    .HasColumnName("check_out");
+                entity.Property(e => e.CheckInDateTime).HasColumnType("datetime");
+
+                entity.Property(e => e.CheckOutDate).HasColumnType("date");
+
+                entity.Property(e => e.CheckOutdateTime).HasColumnType("datetime");
 
                 entity.Property(e => e.CreatedBy).HasColumnName("created_by");
 
                 entity.Property(e => e.CreatedOn)
                     .HasColumnType("datetime")
                     .HasColumnName("created_on");
+
+                entity.Property(e => e.EmpId).HasColumnName("emp_id");
 
                 entity.Property(e => e.ShiftId).HasColumnName("shift_id");
 

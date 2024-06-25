@@ -2,7 +2,7 @@
 
 @{
     ViewData["Title"] = "Index";
-    Layout = "_Layout";
+    Layout = null;
 }
 
 <h3> Login </h3>
@@ -19,7 +19,10 @@
         <input asp-for="Passw" type="password" class="form-control" />
         <span asp-validation-for="Passw" class="text-danger"></span>
     </div>
-    <button type="submit" class="btn btn-primary"> Login </button>
+    <form method="get" action="@Url.Action("Login", "Login")">
+        <button type="submit" class="btn btn-primary">Login</button>
+    </form>
+    
 }
 
 @section Scripts {

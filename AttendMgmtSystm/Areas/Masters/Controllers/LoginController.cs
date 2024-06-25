@@ -18,6 +18,7 @@ namespace AttendMgmtSystm.Areas.Masters.Controllers
         }
         public IActionResult Index()
         {
+            
             return View();
         }
         [HttpPost]
@@ -26,12 +27,12 @@ namespace AttendMgmtSystm.Areas.Masters.Controllers
             var user = _context.EmpMsts.FirstOrDefault(a => a.PhNo == emp.PhNo && a.Passw == emp.Passw);
             if (user != null)
             {
-                HttpContext.Session.SetString("EmployeePhone", user.PhNo?.ToString());
+                HttpContext.Session.SetString("EmployeePhone", user.PhNo?.ToString() ?? String.Empty);
                 HttpContext.Session.SetString("EmployeeId", user.EmpId.ToString());
                 return RedirectToAction("Index", "Home");
             }
             ModelState.AddModelError("", "Invalid username or password");
-            return View(emp);
+            return RedirectToAction("Index1","Home");
         }
     }
 }

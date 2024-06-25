@@ -1,0 +1,8 @@
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.csproj.AssemblyReference.cache
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.GeneratedMSBuildEditorConfig.editorconfig
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.AssemblyInfoInputs.cache
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.AssemblyInfo.cs
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.csproj.CoreCompileInputs.cache
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.MvcApplicationPartsAssemblyInfo.cache
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.RazorAssemblyInfo.cache
+E:\AttendMgmtSystm\AttendMgmtSystm\obj\Debug\net8.0\AttendMgmtSystm.RazorAssemblyInfo.cs

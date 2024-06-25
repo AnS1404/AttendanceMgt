@@ -1,0 +1,159 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AttendMgmtSystm
+build_property.RootNamespace = AttendMgmtSystm
+build_property.ProjectDir = E:\AttendMgmtSystm\AttendMgmtSystm\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\AttendMgmtSystm\AttendMgmtSystm
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/AttMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xBdHRNc3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/AttMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xBdHRNc3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/AttMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xBdHRNc3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/AttMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xBdHRNc3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/AttMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xBdHRNc3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/EmpMsts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBNc3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/EmpMsts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBNc3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/EmpMsts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBNc3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/EmpMsts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBNc3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/EmpMsts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBNc3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Emp/AddorEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBcQWRkb3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Emp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Emp/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Emp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Emp/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xFbXBcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Home/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xIb21lXEluZGV4MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xMb2dpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Login/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xMb2dpblxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Shift/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xTaGlmdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Shift/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xTaGlmdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Shift/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xTaGlmdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Shift/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xTaGlmdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/Masters/Views/Shift/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFzdGVyc1xWaWV3c1xTaGlmdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Areas/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AttendMgmtSystm/AttendMgmtSystm/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
